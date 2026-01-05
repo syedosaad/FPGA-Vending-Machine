@@ -1,7 +1,7 @@
 ELEC5566M Mini-Project Repository - Group 12
 This repository contains a FPGA-based vending machine implementation using Verilog HDL. Using a servo motor control system and seven-segment displays for user feedback, the system illustrates how to choose products, process payments, and dispense items.
 
-Authors
+Authors:
  Saaduddin Syed, Shikha Tripathi,  Manyan Wong, Harini Nagarathinam
 
 Components
